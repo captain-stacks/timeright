@@ -1,0 +1,30 @@
+{
+  "name": "shared-calendar",
+  "version": "1.0.0",
+  "description": "A shared calendar application built with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "calendar",
+    "shared",
+    "application"
+  ],
+  "dependencies": {
+    "next": "latest",
+    "next-auth": "latest",
+    "nodemailer": "latest",
+    "nostr-tools": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
